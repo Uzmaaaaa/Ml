@@ -7,6 +7,7 @@ Mall Customer Segmentation is the process of grouping customers based on their d
 This notebook analyzes the Mall Customer Segmentation Dataset, which contains information about 200 mall customers, including their age, annual income, and spending score. The goal is to segment these customers into groups with similar traits.
 
 #Dataset
+
 The dataset used in this project is Mall_Customers.csv, which contains the following attributes:
 
 CustomerID: Unique ID assigned to each customer.
